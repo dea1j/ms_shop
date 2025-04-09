@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MicroShop.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fd28bfba8f036569906cff212385c4cb5dab187")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc014f41efc7b614669cbc447742901d9199c72c")]
 [assembly: System.Reflection.AssemblyProductAttribute("MicroShop.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MicroShop.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
